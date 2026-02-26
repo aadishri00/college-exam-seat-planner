@@ -53,6 +53,7 @@ https://effervescent-sopapillas-0059a2.netlify.app/
 ---
 
 ## 📂 GitHub Repository
+https://github.com/aadishri00/college-exam-seat-planner
 
 
 ---
